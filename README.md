@@ -10,7 +10,7 @@ Pick the variant for your platform:
 
 | Platform | File | How to install |
 |---|---|---|
-| Claude (skill) | [`SKILL.md`](./SKILL.md) | Install via [skills.sh](https://skills.sh/lunastak/decision-stack/decision-stack), or paste into your Claude environment |
+| Claude (skill) | [`SKILL.md`](./SKILL.md) | Install via [skills.sh](https://skills.sh/lunastak/tools/decision-stack), or paste into your Claude environment |
 | Claude Project | [`platforms/claude-project.md`](./platforms/claude-project.md) | Paste into the **Custom Instructions** field of a Claude Project |
 | Custom GPT | [`platforms/custom-gpt.md`](./platforms/custom-gpt.md) | Paste into the **Instructions** field of a Custom GPT |
 | Gemini Gem | [`platforms/gemini-gem.md`](./platforms/gemini-gem.md) | Paste into the **Instructions** field of a Gemini Gem |
