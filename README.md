@@ -31,6 +31,8 @@ In any Claude Code session:
 
 Or describe what you want — the skill auto-triggers on phrases like *"prep my decision stack"*, *"build a context bundle"*, or *"organise my strategic thinking"*.
 
+The skill is also listed on [skills.sh](https://skills.sh/lunastak/tools/decision-stack) — browse or install it from there.
+
 ---
 
 ## First time using Claude Code?
