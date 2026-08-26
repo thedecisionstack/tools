@@ -7,6 +7,11 @@ The version below is the plugin version declared in `.claude-plugin/marketplace.
 installed plugin by version, so users who already installed the previous version keep their
 stale copy of any changed file, including `SKILL.md`, until the version moves.
 
+## [Unreleased]
+
+### Added
+- `LICENSE` (MIT) — the README already linked it, but the file was missing.
+
 ## [1.0.1] — 2026-08-26
 
 ### Changed
